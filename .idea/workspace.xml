@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ecec8e1-0fa8-4a69-8e95-3fee7405eb76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CommandLineDemo/MultipleClasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommandLineDemo/SimpleTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HttpUser/reqres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SequentialTaskSet/sequentialtasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskSet/httpcat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskSet/nested_taskset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WaitTime/waittime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StartStop/startstop_httpuser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StartStop/startstop_taskset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StartStop/startstop_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VerifyResponse/verifyresponse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/User/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reqres.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +40,14 @@
     "Python.nested_taskset.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Sites/GitHub/locust-series/CommandLineDemo",
+    "last_opened_file_path": "D:/Sites/GitHub/locust-series",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Sites\GitHub\locust-series\CommandLineDemo" />
       <recent name="D:\Sites\GitHub\locust-series" />
+      <recent name="D:\Sites\GitHub\locust-series\CommandLineDemo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Sites\GitHub\locust-series\CommandLineDemo" />
