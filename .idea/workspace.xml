@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ecec8e1-0fa8-4a69-8e95-3fee7405eb76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Configuration/config_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration/mycustom.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration/mycustom.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Correlation/petstore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataParameterization/customer-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataParameterization/parameterization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataParameterization/readtestdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventsDemo/events_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventsDemo/events_hooks_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging/petstore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tag/tagdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DistributedLoadTesting/master.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DistributedLoadTesting/petstore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DistributedLoadTesting/worker.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
